@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated publication."
+title: "Attentional Control during Visual Modified Flanker Stimuli using fMRI Data"
+authors:
+  - family-names: Sharini
+    given-names: Hamid
+  - family-names: Rajeyan
+    given-names: Elahe
+  - family-names: Faraji
+    given-names: Shahab
+  - family-names: Ahmadi
+    given-names: Mojtaba
+  - family-names: Faramarzi
+    given-names: Ayob
+  - family-names: Jalalvandi
+    given-names: Maziar
+year: 2026
