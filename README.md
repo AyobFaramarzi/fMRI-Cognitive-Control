@@ -76,3 +76,7 @@ Sharini, H., Rajeyan, E., Faraji, S., Ahmadi, M., Faramarzi, A., & Jalalvandi, M
 **Ayob Faramarzi**
 
 Biomedical Engineering | Neuroimaging | fMRI | MRS | Brain Connectivity | Machine Learning
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=1uivc_4AAAAJ)
+
+[LinkedIn](https://www.linkedin.com/in/ayob-faramarzi/)
