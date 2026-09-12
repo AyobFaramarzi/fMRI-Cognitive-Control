@@ -48,3 +48,32 @@ Brain Activation
 Functional Connectivity
         ↓
 Cognitive Control
+
+
+## Software
+
+- MATLAB
+- SPM
+- CONN
+
+## Publication
+
+Sharini, H., Rajeyan, E., Faraji, S., Ahmadi, M., Faramarzi, A., & Jalalvandi, M. (2026).
+
+**Attentional Control during Visual Modified Flanker Stimuli using fMRI Data.**
+
+*Journal of Biomedical Physics & Engineering.*
+
+[Read the article](https://pmc.ncbi.nlm.nih.gov/articles/PMC13457681/)
+
+[DOI](https://doi.org/10.31661/jbpe.v0i0.2408-1813)
+
+## Author
+
+**Ayob Faramarzi**
+
+Biomedical Engineering | Neuroimaging | fMRI | Brain Connectivity
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=1uivc_4AAAAJ)
+
+[LinkedIn](https://www.linkedin.com/in/ayob-faramarzi/)
