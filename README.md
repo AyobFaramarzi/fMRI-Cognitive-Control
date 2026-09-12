@@ -1,16 +1,16 @@
-# fMRI-Cognitive-Control
+ fMRI-Cognitive-Control
 
-## Attentional Control during Visual Modified Flanker Stimuli using fMRI Data
+ Attentional Control during Visual Modified Flanker Stimuli using fMRI Data
 
 This repository presents a research project investigating attentional control during a visual modified Flanker task using functional magnetic resonance imaging (fMRI).
 
 The study focused on task-related brain activity and functional connectivity associated with attentional processing and cognitive control.
 
-## Research Question
+ Research Question
 
 How does the brain respond to attentional conflict during visual Flanker stimuli, and how are these responses reflected in brain activity and functional connectivity?
 
-## Study Focus
+ Study Focus
 
 - Attentional control
 - Selective attention
@@ -20,19 +20,19 @@ How does the brain respond to attentional conflict during visual Flanker stimuli
 - Functional connectivity
 - Functional magnetic resonance imaging (fMRI)
 
-## Study Design
+ Study Design
 
 Participants performed a modified visual Flanker task while undergoing fMRI.
 
 The analysis investigated brain responses associated with different task conditions and examined functional connectivity related to attentional processing.
 
-## Analysis
+ Analysis
 
 The fMRI analysis included task-related brain activity and functional connectivity analyses.
 
 The project was developed using MATLAB-based neuroimaging analysis tools.
 
-## Research Workflow
+ Research Workflow
 
 ```text
 Modified Flanker Task
@@ -50,13 +50,13 @@ Functional Connectivity
 Cognitive Control
 
 
-## Software
+ Software
 
 - MATLAB
 - SPM
 - CONN
 
-## Publication
+ Publication
 
 Sharini, H., Rajeyan, E., Faraji, S., Ahmadi, M., Faramarzi, A., & Jalalvandi, M. (2026).
 
@@ -68,7 +68,7 @@ Sharini, H., Rajeyan, E., Faraji, S., Ahmadi, M., Faramarzi, A., & Jalalvandi, M
 
 [DOI](https://doi.org/10.31661/jbpe.v0i0.2408-1813)
 
-## Author
+ Author
 
 **Ayob Faramarzi**
 
